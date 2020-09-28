@@ -1,0 +1,25 @@
+﻿  main.cpp
+C:\Users\15626\Desktop\practicePro\decodeCert\decodeCert\decodeX509Cert.h(121,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15626\Desktop\practicePro\decodeCert\decodeCert\decodeX509Cert.h(221,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15626\Desktop\practicePro\decodeCert\decodeCert\decodeX509Cert.h(344,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15626\Desktop\practicePro\decodeCert\decodeCert\decodeX509Cert.h(371,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15626\Desktop\practicePro\decodeCert\decodeCert\decodeX509Cert.h(398,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15626\Desktop\practicePro\decodeCert\decodeCert\decodeX509Cert.h(401,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15626\Desktop\practicePro\decodeCert\decodeCert\decodeX509Cert.h(414,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15626\Desktop\practicePro\decodeCert\decodeCert\decodeX509Cert.h(427,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15626\Desktop\practicePro\decodeCert\decodeCert\decodeX509Cert.h(443,20): warning C4477: “printf”: 格式字符串“%02x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“Seg”
+C:\Users\15626\Desktop\practicePro\decodeCert\decodeCert\decodeX509Cert.h(445,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15626\Desktop\practicePro\decodeCert\decodeCert\decodeX509Cert.h(446,24): warning C4477: “printf”: 格式字符串“%02x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“_Ty”
+          with
+          [
+              _Ty=Seg
+          ]
+C:\Users\15626\Desktop\practicePro\decodeCert\decodeCert\decodeX509Cert.h(449,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15626\Desktop\practicePro\decodeCert\decodeCert\decodeX509Cert.h(450,24): warning C4477: “printf”: 格式字符串“%02x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“_Ty”
+          with
+          [
+              _Ty=Seg
+          ]
+C:\Users\15626\Desktop\practicePro\decodeCert\decodeCert\decodeX509Cert.h(461,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15626\Desktop\practicePro\decodeCert\decodeCert\decodeX509Cert.h(494,27): warning C4018: “<”: 有符号/无符号不匹配
+  decodeCert.vcxproj -> C:\Users\15626\Desktop\practicePro\decodeCert\Debug\decodeCert.exe
